@@ -31,7 +31,7 @@ A palindrome is a word or sentence that's spelled the same way both forward and 
 
 It Returns true if the given string is a palindrome. Otherwise, return false.
 
-### 4.Roman NUmeral Converter
+### 4.Roman Numeral Converter
 Program converts the given number into a roman numeral.
 
 <b>Note:</b> Input number should be in the range 1-3999.
